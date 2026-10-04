@@ -3,12 +3,12 @@
   "displayName": "SniperXJohn",
   "description": "Hi! I made this colour theme based on colour pallets which my eyes feels comfortable to see. This theme I made for my own personal use. So there will be no frequent updates.",
   "icon": "assets/peep.png",
-  "version": "2.0.1",
+  "version": "3.0.1",
   "author": "asabhi6776",
   "publisher": "asabhi6776",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asabhi6776/sniperxjohn"
+    "url": "https://github.com/abhixops/sniperxjohn"
   },
   "keywords": [
     "theme",
@@ -31,5 +31,8 @@
         "path": "./themes/SniperXJohn.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

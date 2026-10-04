@@ -3,3 +3,4 @@ node_modules
 test.yaml
 notes.*
 testproj
+package-lock.json
