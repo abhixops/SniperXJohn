@@ -6,26 +6,20 @@
 
 [![Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=asabhi6776.sniperxjohn) ![Version](https://img.shields.io/github/package-json/v/abhixops/sniperxjohn) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<img src="assets/preview.png" alt="SniperXJohn preview" width="800">
+<img src="assets/preview.png" alt="Softnight preview" width="800">
 
 </div>
 
 ## Why this theme?
 
-I built SniperXJohn for my own daily use, with colours that are easy on the eyes
+I built Softnight for my own daily use, with colours that are easy on the eyes
 over long coding sessions. It is shared as-is and updated occasionally.
 
 ## Installation
 
 1. Open VS Code and go to Extensions (`Ctrl+Shift+X`).
-2. Search for **SniperXJohn** and click **Install**.
-3. Open the theme picker with `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS) and select **SniperXJohn**.
-
-Or from the command line:
-
-```bash
-code --install-extension asabhi6776.sniperxjohn
-```
+2. Search for **Softnight** and click **Install**.
+3. Open the theme picker with `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS) and select **Softnight**.
 
 ## Recommended settings
 
@@ -50,10 +44,10 @@ To tweak individual colours without forking, override them in `settings.json`:
 ```jsonc
 {
   "workbench.colorCustomizations": {
-    "[SniperXJohn]": { "editor.background": "#101010" }
+    "[Softnight]": { "editor.background": "#101010" }
   },
   "editor.tokenColorCustomizations": {
-    "[SniperXJohn]": { "comments": "#6a737d" }
+    "[Softnight]": { "comments": "#6a737d" }
   }
 }
 ```

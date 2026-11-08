@@ -3,12 +3,12 @@
   "displayName": "Softnight",
   "description": "Hi! I made this colour theme based on colour pallets which my eyes feels comfortable to see. This theme I made for my own personal use. So there will be no frequent updates.",
   "icon": "assets/peep.png",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "author": "asabhi6776",
   "publisher": "asabhi6776",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abhixops/sniperxjohn"
+    "url": "https://github.com/abhixops/softnight"
   },
   "keywords": [
     "theme",
