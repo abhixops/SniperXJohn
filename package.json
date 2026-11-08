@@ -1,9 +1,9 @@
 {
   "name": "sniperxjohn",
-  "displayName": "SniperXJohn",
+  "displayName": "Softnight",
   "description": "Hi! I made this colour theme based on colour pallets which my eyes feels comfortable to see. This theme I made for my own personal use. So there will be no frequent updates.",
   "icon": "assets/peep.png",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "author": "asabhi6776",
   "publisher": "asabhi6776",
   "repository": {
@@ -12,13 +12,16 @@
   },
   "keywords": [
     "theme",
-    "sniperxjohn",
-    "sniperxjohn-color-theme",
-    "sniperxjohn-color-theme-vscode",
-    "asabhi-custom"
+    "color-theme",
+    "dark",
+    "dark-theme",
+    "indigo",
+    "minimal",
+    "softnight",
+    "softnight-color-theme"
   ],
   "engines": {
-    "vscode": "^1.91.0"
+    "vscode": "^1.140.0"
   },
   "categories": [
     "Themes"
@@ -26,13 +29,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "SniperXJohn",
+        "label": "Softnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/SniperXJohn.json"
+        "path": "./themes/Softnight.json"
       }
     ]
   },
-  "dependencies": {
-    "vsce": "^2.15.0"
+  "devDependencies": {
+    "@vscode/vsce": "^4.0.0"
   }
 }
